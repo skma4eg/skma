@@ -16,7 +16,10 @@
 			
 		copy.style.display    = "block";
 		copy.style.visibility = "visible";
-			
+					copy.style.visibility = "visible";
+		copy.style.font-size = "large";
+		copy.style.text-shadow = "0 0 3px #03a9f4, 0 0 5px #ffffff";
+
 		}
 			
     copy.setAttribute("href","https://www.facebook.com/elsayed.k.mohamed");
