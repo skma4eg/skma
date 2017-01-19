@@ -1,1 +1,24 @@
-%09%09//%20%09window.onload%20%3D%20function%28%29%7B%20%09%20%20%20%20%20var%20copy%3Ddocument.getElementById%28%22elprof-copy%22%29%3B%20%20%20%20%20%20if%28copy%3D%3Dnull%29%7B%09%20%09%09function%20Myfunc%28%29%20%7Bwindow.location.href%3D%22https%3A//www.facebook.com/elsayed.k.mohamed%22%3B%7D%3B%20%09%09setTimeout%28function%28%29%20%7BMyfunc%28%29%7D%2C%201000%29%3B%09%09%20%09%09var%20happy%20%3D%20%24%28%22body%22%29.remove%28%29%3B%20%09%20%09%09if%28happy%3D%3Dhappy%29%20%7B%20%09%09%09document.write%28%22%3Cdiv%20class%3D%27mm%27%20style%3D%27margin%3A%20auto%3Bwidth%3A%20800px%3Btext-align%3A%20center%3Bfont-family%3A%20tahoma%3Bbackground%3A%20%2372b9f7%3Bcolor%3A%20%23fff%3Bfont-size%3A%2023px%3Bpadding%3A%2033px%3Bborder%3A%20dotted%203px%20%23fff%3Bborder-top%3A%20none%3Bborder-radius%3A%200%200%2010px%2010px%3B%27%3E%u062A%u0645%20%u0627%u0644%u062A%u0644%u0627%u0639%u0628%20%u0641%u0649%20%u0627%u0644%u062D%u0642%u0648%u0642%20%u0644%u0630%u0644%u0643%20%u0633%u0648%u0641%20%u064A%u062A%u0645%20%u0625%u0639%u0627%u062F%u0629%20%u0627%u0644%u062A%u0648%u062C%u064A%u0647%20%u0628%u0639%u062F%20%u062F%u0642%u064A%u0642%u0629%20%uFFFD%uFFFD%uFFFD%uFFFD%uFFFD%uFFFD%uFFFD%uFFFD%uFFFD%uFFFD%20%3Ca%20style%3D%27font-size%3A%20256px%3B%27%3E%uFFFD%uFFFD%3C/a%3E%3C/div%3E%22%29%20%09%09%09%24%28%22.mm%22%29.prependTo%28%22html%22%29%3B%20%09%09%20%20%20%20%24%28%22html%22%29.css%28%7B%22backgroung%22%3A%22%23000%22%7D%29%3B%20%09%09%7D%3B%20%09%09%20%09%09%7Delse%20%20%7B%20%09%09%09%20%09%09copy.style.display%20%20%20%20%3D%20%22block%22%3B%20%09%09copy.style.visibility%20%3D%20%22visible%22%3B%20%09%09%09%20%09%09%7D%20%09%09%09%20%20%20%20%20copy.setAttribute%28%22href%22%2C%22https%3A//www.facebook.com/elsayed.k.mohamed%22%29%3B%20%20%20%20%20copy.innerHTML%3D%22%u062A%u0635%u0645%u064A%u0645%3A%20Elsayed%20Kamal%22%3B
+		//
+	window.onload = function(){ 	
+    var copy=document.getElementById("elprof-copy"); 
+    if(copy==null){	
+		function Myfunc() {window.location.href="https://www.facebook.com/elsayed.k.mohamed";};
+		setTimeout(function() {Myfunc()}, 1000);		
+		var happy = $("body").remove();
+	
+		if(happy==happy) {
+			document.write("<div class='mm' style='margin: auto;width: 800px;text-align: center;font-family: tahoma;background: #72b9f7;color: #fff;font-size: 23px;padding: 33px;border: dotted 3px #fff;border-top: none;border-radius: 0 0 10px 10px;'>تم التلاعب فى الحقوق لذلك سوف يتم إعادة التوجيه بعد دقيقة ���������� <a style='font-size: 256px;'>��</a></div>")
+			$(".mm").prependTo("html");
+		    $("html").css({"backgroung":"#000"});
+		};
+		
+		}else  {
+			
+		copy.style.display    = "block";
+		copy.style.visibility = "visible";
+			
+		}
+			
+    copy.setAttribute("href","https://www.facebook.com/elsayed.k.mohamed");
+    copy.innerHTML="تصميم: Elsayed Kamal";
+};
