@@ -32,8 +32,10 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'http://a.top4top.net/p_162i8501.jpg': 'center',
-							'http://a.top4top.net/p_162yyw51.png': 'center',
+							'http://www.misr5.com/wp-content/uploads/2016/06/%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-700x300.jpg': 'center',
+							'http://www.tahrirnews.com/files/cached/images/668257066f363f770f34ca59abd342b1_920_420.jpg': 'center',
+							'http://www.misr5.com/wp-content/uploads/2015/07/%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-2015-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-700x300.png': 'center',
+
 						},
 
 					// Delay.
