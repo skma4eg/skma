@@ -32,8 +32,8 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'http://pat.edu.eg/Slideshow-images/bg1.jpg': 'center',
-							'http://pat.edu.eg/Slideshow-images/bg2.jpg': 'center',
+							'http://a.top4top.net/p_162i8501.jpg': 'center',
+							'http://a.top4top.net/p_162yyw51.png': 'center',
 						},
 
 					// Delay.
