@@ -33,7 +33,7 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'http://a.top4top.net/p_162i8501.jpg': 'center',
-							'http://www.new-educ.com/wp-content/uploads/teacher-and-boy.jpg': 'center',
+							'https://modo3.com/thumbs/fit630x300/81592/1452593944/%D8%A3%D9%87%D9%85%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85.jpg': 'center',
 							'https://modo3.com/thumbs/fit630x300/9821/1438776727/%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1_%D8%B9%D9%86_%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85.jpg': 'center',
 
 						},
